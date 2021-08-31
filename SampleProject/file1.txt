@@ -1,2 +1,2 @@
-Adding this file for understanding merge conflicts
-This file has been added in branch second
+Creating this file in order to understand merge conflicts in git
+This file is created in branch second
