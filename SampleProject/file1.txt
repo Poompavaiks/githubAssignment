@@ -1,0 +1,2 @@
+Adding this file for understanding merge conflicts
+This file has been added in branch second
