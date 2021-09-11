@@ -14,6 +14,7 @@ public class testcase {
 		driver=new ChromeDriver();
 		driver.get("https://en-gb.facebook.com/");
 		driver.manage().window().maximize();
+		System.out.println(driver.getTitle());
 	}
 
 }
